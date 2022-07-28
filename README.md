@@ -11,6 +11,8 @@ Middleware Syntax: The basic syntax for the middleware functions are as follows 
                          app.get(path, (req, res, next) => {}, (req, res) => {})
                          
 
+
+
 Advantages of using middleware:
 
    =>Middleware can process request objects multiple times before the server works for that request.
