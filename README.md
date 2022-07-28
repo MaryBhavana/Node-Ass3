@@ -14,7 +14,11 @@ Middleware Syntax: The basic syntax for the middleware functions are as follows 
 Advantages of using middleware:
 
    =>Middleware can process request objects multiple times before the server works for that request.
+   
    =>Middleware can be used to add logging and authentication functionality.
+   
    =>Middleware improves client-side rendering performance.
+   
    =>Middleware is used for setting some specific HTTP headers.
+   
    =>Middleware helps for Optimization and better performance.
